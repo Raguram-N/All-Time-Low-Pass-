@@ -5,7 +5,7 @@ A subscription-based, gamified price protection system that **lets customers cla
 
 ---
 
-## 1️⃣ Overview  
+## 1. 🧩 Overview  
 
 **All-Time Low Pass** empowers online shoppers to:  
 - Claim the price difference when purchased products drop in cost  
@@ -15,39 +15,38 @@ A subscription-based, gamified price protection system that **lets customers cla
 
 ---
 
-## ✨ The Story – The Spark
+## 2. ✨ The Story – The Spark  
 
 <table>
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="Problem statement.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="Problem statement.png" width="95%" alt="Problem Statement Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
-  
 
 **Picture this:**  
 A customer buys a pair of shoes for ₹1,000. A week later, the price drops to ₹900. Normally, they would **miss the difference**, leading to frustration.  
 
-### Key Challenges  
+### 💡 Key Challenges  
 - Users lose money when prices drop after a purchase  
 - Tracking price changes across multiple products is tedious  
 - No incentive for users to remain engaged with the platform post-purchase  
 
-  </td>
+</td>
 </tr>
 </table>
 
 ---
 
-## 2️⃣ Solution  
+## 3. 🧠 Solution  
 
 <table>
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="solution.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="solution.png" width="95%" alt="Solution Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -59,8 +58,7 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 - **Credit expiration:** End of each month  
 - **Single claim per product:** Prevents misuse and simplifies tracking  
 
-## Benefits  
-
+### 🚀 Benefits  
 - Automatically rewards users for price drops  
 - Credits can be applied to future purchases  
 - Makes shopping a **fun and strategic experience**  
@@ -70,33 +68,32 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 </tr>
 </table>
 
- 
 ---
 
-## 4️⃣ Features  
+## 4. ⚙️ Features  
 
-- **Price Drop Tracking:** Automatic monitoring of purchased items  
-- **Single Claim per Product:** Prevents abuse and simplifies tracking  
-- **Monthly Credit Cap:** ₹500/month to control risk  
-- **Flexible Credit Usage:** Apply credits to any eligible purchase within the month  
-- **Gamified Experience:** Predict which products might drop in price  
-- **Real-Time Notifications:** Alerts for price drops and expiring credits  
-- **End-of-Month Summary:** Encourages credit utilization and repeat purchases  
-
----
-
-## 5️⃣ Prototype Flow  
-
-1. Buy a product → Price is tracked automatically  
-2. Price drops → Claim difference (once per product)  
-3. Credit added to All-Time Low Pass → Max ₹500/month  
-4. Use credits for next purchase → Pay remaining from pocket  
-5. End-of-month → Unused credits expire → Encourages new purchases  
-6. Repeat cycle → Continuous engagement  
+- **📉 Price Drop Tracking:** Automatic monitoring of purchased items  
+- **🔒 Single Claim per Product:** Prevents abuse and simplifies tracking  
+- **💰 Monthly Credit Cap:** ₹500/month to control risk  
+- **🎟️ Flexible Credit Usage:** Apply credits to any eligible purchase within the month  
+- **🎮 Gamified Experience:** Predict which products might drop in price  
+- **🔔 Real-Time Notifications:** Alerts for price drops and expiring credits  
+- **📆 End-of-Month Summary:** Encourages credit utilization and repeat purchases  
 
 ---
 
-## 6️⃣ Example Flow  
+## 5. 🧭 Prototype Flow  
+
+1. 🛍️ Buy a product → Price is tracked automatically  
+2. 📉 Price drops → Claim difference (once per product)  
+3. 💵 Credit added to All-Time Low Pass → Max ₹500/month  
+4. 👕 Use credits for next purchase → Pay remaining from pocket  
+5. ⏳ End-of-month → Unused credits expire → Encourages new purchases  
+6. 🔁 Repeat cycle → Continuous engagement  
+
+---
+
+## 6. 📊 Example Flow  
 
 | Step | Action | Price | Claim / Credit |
 |------|--------|-------|----------------|
@@ -106,18 +103,18 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 
 ---
 
-## 7️⃣ Benefits  
+## 7. 🎯 Benefits  
 
 <table>
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="happy image.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="happy image.png" width="95%" alt="User Benefits Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
 
-### For Users  
+### 👥 For Users  
 - Save automatically on price drops  
 - Engage with a gamified shopping experience  
 - Make strategic purchases with planning  
@@ -127,33 +124,48 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 </tr>
 </table>
 
-### For Business / Platform  
+---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="pic.2.png" width="95%" alt="Business Benefits Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+### 🏢 For Business / Platform  
 - Subscription revenue from All-Time Low Pass  
 - Increased app engagement and retention  
 - Predictable revenue through monthly credit caps  
 - Upselling opportunities for higher-value purchases  
 - Differentiates platform with **loyalty-driven gamification**  
 
----
-
-## 8️⃣ Target Audience  
-
-- **Frequent Online Shoppers:** Looking for savings and deals  
-- **Deal Hunters & Gamers:** Users who enjoy strategizing purchases  
-- **Millennials & Gen Z:** Highly engaged with apps and gamified experiences  
-- **High-Traffic E-commerce Users:** Benefit from multi-category purchase tracking  
+</td>
+</tr>
+</table>
 
 ---
 
-## 9️⃣ Market Opportunity  
+## 8. 👤 Target Audience  
+
+- **🛒 Frequent Online Shoppers:** Looking for savings and deals  
+- **🎮 Deal Hunters & Gamers:** Users who enjoy strategizing purchases  
+- **📱 Millennials & Gen Z:** Highly engaged with apps and gamified experiences  
+- **🛍️ High-Traffic E-commerce Users:** Benefit from multi-category purchase tracking  
+
+---
+
+## 9. 🌏 Market Opportunity  
 
 - **India Online Shopping:** ~100M active users  
-- Conservative estimate: 5–10M potential All-Time Low Pass subscribers initially  
-- Opportunity to **boost monthly active users, repeat purchases, and average basket size**  
+- Estimated 5–10M potential All-Time Low Pass subscribers initially  
+- Opportunity to **boost monthly active users, repeat purchases, and basket size**  
 
 ---
 
-## 🔟 Revenue Opportunity  
+## 10. 💰 Revenue Opportunity  
 
 | User Segment | Users | Monthly Revenue (₹) | Annual Revenue (₹ Cr) |
 |---------------|--------|--------------------|----------------------|
@@ -168,7 +180,7 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 
 ---
 
-## 1️⃣1️⃣ Competitive Advantage  
+## 11. 🧩 Competitive Advantage  
 
 - Combines **price protection + gamification + subscription model**  
 - Predictive and fun: users **strategize purchases**  
@@ -178,7 +190,7 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 
 ---
 
-## 1️⃣2️⃣ Prototype Tech  
+## 12. 💻 Prototype Tech  
 
 - **Stack:** HTML, CSS, JavaScript (frontend prototype)  
 - **Core Features:**  
@@ -190,7 +202,7 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 
 ---
 
-## 1️⃣3️⃣ Conclusion  
+## 13. 🏁 Conclusion  
 
 **All-Time Low Pass** is a **strategic, gamified solution** that:  
 - Turns shopping into a **prediction game**  
