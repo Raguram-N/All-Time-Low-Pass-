@@ -54,10 +54,10 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 > **All-Time Low Pass** is a subscription-based, gamified system that rewards users for price drops:  
 
 - **Yearly subscription(Recommended):** ₹1,299/year 
-- **Free Tier (Limited):** Track up to 2 products/month
 - **Monthly credit limit:** ₹500  
 - **Credit expiration:** End of each month  
 - **Single claim per product:** Prevents misuse and simplifies tracking  
+- **Free Tier (Limited):** Track up to 5 products
 
 ### 🚀 Benefits  
 - Automatically rewards users for price drops  
