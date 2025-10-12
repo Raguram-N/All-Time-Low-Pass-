@@ -16,6 +16,15 @@ A subscription-based, gamified price protection system that **lets customers cla
 ---
 
 ## ✨ The Story – The Spark
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Problem statement.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
   
 
 **Picture this:**  
@@ -26,25 +35,42 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 - Tracking price changes across multiple products is tedious  
 - No incentive for users to remain engaged with the platform post-purchase  
 
+  </td>
+</tr>
+</table>
+
 ---
 
 ## 2️⃣ Solution  
 
-**All-Time Low Pass** is a subscription-based, gamified system that rewards users for price drops:  
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="solution.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+> **All-Time Low Pass** is a subscription-based, gamified system that rewards users for price drops:  
 
 - **Yearly subscription:** ₹1,299/year  
 - **Monthly credit limit:** ₹500  
 - **Credit expiration:** End of each month  
 - **Single claim per product:** Prevents misuse and simplifies tracking  
 
----
+## Benefits  
 
-## 3️⃣ Benefits  
 - Automatically rewards users for price drops  
 - Credits can be applied to future purchases  
 - Makes shopping a **fun and strategic experience**  
 - Boosts user engagement, retention, and loyalty  
 
+</td>
+</tr>
+</table>
+
+ 
 ---
 
 ## 4️⃣ Features  
@@ -82,11 +108,24 @@ A customer buys a pair of shoes for ₹1,000. A week later, the price drops to �
 
 ## 7️⃣ Benefits  
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="happy image.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ### For Users  
 - Save automatically on price drops  
 - Engage with a gamified shopping experience  
 - Make strategic purchases with planning  
 - Incentivized repeat purchases through credits  
+
+</td>
+</tr>
+</table>
 
 ### For Business / Platform  
 - Subscription revenue from All-Time Low Pass  
