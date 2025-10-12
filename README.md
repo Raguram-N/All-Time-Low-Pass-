@@ -128,7 +128,7 @@ A customer buys a pair of shoes for â‚¹1,000. A week later, the price drops to â
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="55%" align="center" valign="middle">
 
 <img src="pic.2.png" width="95%" alt="Business Benefits Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
