@@ -30,7 +30,9 @@ A subscription-based, gamified price protection system that **lets customers cla
 A customer buys a pair of shoes for ₹1,000. A week later, the price drops to ₹900. Normally, they would **miss the difference**, leading to frustration.  
 
 **In future:** <br>
-Customers may delay their purchase decisions — each time they’re about to click “Buy,” they hesitate, wondering if the price might drop tomorrow. This hesitation repeats in a loop, causing lost sales and reduced customer confidence.
+Customers may delay their purchase decisions — each time they’re about to click “Buy,” they hesitate, wondering if the price might drop tomorrow. 
+
+> ❌ This hesitation repeats in a loop, hurting sales and weakening customer confidence.
 
 </td>
 </tr>
