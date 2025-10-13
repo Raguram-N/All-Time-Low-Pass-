@@ -29,10 +29,8 @@ A subscription-based, gamified price protection system that **lets customers cla
 **Picture this:**  
 A customer buys a pair of shoes for ₹1,000. A week later, the price drops to ₹900. Normally, they would **miss the difference**, leading to frustration.  
 
-### 💡 Key Challenges  
-- Users lose money when prices drop after a purchase  
-- Tracking price changes across multiple products is tedious  
-- No incentive for users to remain engaged with the platform post-purchase  
+**In the future:** <br>
+Customers may delay their purchase decisions — each time they’re about to click “Buy,” they hesitate, wondering if the price might drop tomorrow. This hesitation repeats in a loop, causing lost sales and reduced customer confidence.
 
 </td>
 </tr>
