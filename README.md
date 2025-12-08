@@ -103,7 +103,7 @@ Customers may delay their purchase decisions — each time they’re about to cl
 | 2 | Buy Shirt | ₹1,000 | Apply ₹100 credit → Pay ₹900 from pocket |
 | 3 | Buy Watch | ₹2,000 | Price drops to ₹1,950 → Claim ₹50 (within monthly cap of ₹500) |
 
-> **So, once the customer buy shoes in your shop, That customer wont go for any other shop to buy shirt, to buy watch.**
+> **🔑 So, once the customer buy shoes in your shop, That customer will never go for other shop to buy shirt, to buy watch etc....**
 
 ---
 
