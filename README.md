@@ -97,7 +97,7 @@ Customers may delay their purchase decisions — each time they’re about to cl
 
 ## 6. 📊 Example Flow  
 
-| Step | Action | Price | Claim / Credit |
+| Week | Action | Price | Claim / Credit |
 |------|--------|-------|----------------|
 | 1 | Buy Shoes | ₹1,000 | Price drops to ₹900 → Claim ₹100 |
 | 2 | Buy Shirt | ₹1,000 | Apply ₹100 credit → Pay ₹900 from pocket |
