@@ -243,4 +243,4 @@ This locks in repeat purchases and stops them from going to competitors.**
 **Raguram Narayanaswamy**  
 
 📂 **Repo Purpose:**  
-Product Case Study & Growth Proposal for *All-Time Low Pass*  
+Product Case Study & Growth Proposal for e-commerce and supermarkets, and also how to expand the revenue bandwidth. 
