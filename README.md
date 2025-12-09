@@ -1,7 +1,7 @@
 # 📑 Case Study  
 # 💰🛒 All-Time Low Pass – Price Prediction & Reward System  
 
-A subscription-based, gamified price protection system that **lets customers claim price drops and accumulate credits** to maximize savings — designed for online shoppers, deal hunters, and loyal app users.  
+A subscription-based, gamified price protection system that **lets customers claim price drops and accumulate credits** to maximize savings — designed for online shoppers, Super market apps, deal hunters, and loyal app users.  
 
 ---
 
