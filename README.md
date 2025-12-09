@@ -42,7 +42,7 @@ Customers may delay their purchase decisions — each time they’re about to cl
 
 # 🧠 The Innovation 
 
-## 3. 📊 Example Flow  
+## 3.📊 Real Customer Journey (Simplified) 
 
 | Week | Action | Price | Claim / Credit |
 |------|--------|-------|----------------|
