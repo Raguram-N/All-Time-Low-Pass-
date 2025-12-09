@@ -40,7 +40,46 @@ Customers may delay their purchase decisions — each time they’re about to cl
 
 ---
 
-## 3. 🧠 Solution  
+# 🧠 The Innovation 
+
+## 3. 📊 Example Flow  
+
+| Week | Action | Price | Claim / Credit |
+|------|--------|-------|----------------|
+| 1 | Customer buys Shoes | ₹1,000 | If the price drops to ₹900 the next day → Customer instantly receives ₹100 credit |
+| 2 |Customer buys Shirt | ₹1,000 | They use the ₹100 credit → They pay only ₹900 for there shirts |
+| 3 | Customer buys Watch | ₹2,000 | If the price watch drops to ₹1,950 the next day → Customer receives ₹50 credit for future purchases (within the ₹500/month limit) |
+
+> **🔑 Key Insight:<br>
+Once the customer buys the first product from your shop (ex: shoes), they will keep coming back to your shop for the next product (shirt, watch, etc.) — because their credits work only in your shop.
+This locks in repeat purchases and stops them from going to competitors.**
+
+---
+
+## 4. 🧭 How it workd - Prototype Flow  
+
+1. 🛍️ Buy a product → Price is tracked automatically  
+2. 📉 Price drops → Claim difference (once per product)  
+3. 💵 Credit added to All-Time Low Pass → Max ₹500/month  
+4. 👕 Use credits for next purchase → Pay remaining from pocket  
+5. ⏳ End-of-month → Unused credits expire → Encourages new purchases  
+6. 🔁 Repeat cycle → Continuous engagement  
+
+---
+
+## 5. ⚙️ Features  
+
+- **📉 Price Drop Tracking:** Automatic monitoring of purchased items  
+- **🔒 Single Claim per Product:** Prevents abuse and simplifies tracking  
+- **💰 Monthly Credit Cap:** ₹500/month to control risk  
+- **🎟️ Flexible Credit Usage:** Apply credits to any eligible purchase within the month  
+- **🎮 Gamified Experience:** Predict which products might drop in price  
+- **🔔 Real-Time Notifications:** Alerts for price drops and expiring credits  
+- **📆 End-of-Month Summary:** Encourages credit utilization and repeat purchases  
+
+---
+
+## 6. 🧠 Solution  
 
 <table>
 <tr>
@@ -53,11 +92,11 @@ Customers may delay their purchase decisions — each time they’re about to cl
 
 > **All-Time Low Pass** is a subscription-based, gamified system that rewards users for price drops:  
 
-- **Yearly subscription(Recommended):** ₹1,299/year 
 - **Monthly credit limit:** ₹500  
 - **Credit expiration:** End of each month  
 - **Single claim per product:** Prevents misuse and simplifies tracking  
 - **Free Tier (Limited):** Track up to 5 products
+- **Yearly subscription(Optional):** ₹1,299/year 
 
 ### 🚀 Benefits  
 
@@ -72,38 +111,6 @@ Customers may delay their purchase decisions — each time they’re about to cl
 
 ---
 
-## 4. ⚙️ Features  
-
-- **📉 Price Drop Tracking:** Automatic monitoring of purchased items  
-- **🔒 Single Claim per Product:** Prevents abuse and simplifies tracking  
-- **💰 Monthly Credit Cap:** ₹500/month to control risk  
-- **🎟️ Flexible Credit Usage:** Apply credits to any eligible purchase within the month  
-- **🎮 Gamified Experience:** Predict which products might drop in price  
-- **🔔 Real-Time Notifications:** Alerts for price drops and expiring credits  
-- **📆 End-of-Month Summary:** Encourages credit utilization and repeat purchases  
-
----
-
-## 5. 🧭 Prototype Flow  
-
-1. 🛍️ Buy a product → Price is tracked automatically  
-2. 📉 Price drops → Claim difference (once per product)  
-3. 💵 Credit added to All-Time Low Pass → Max ₹500/month  
-4. 👕 Use credits for next purchase → Pay remaining from pocket  
-5. ⏳ End-of-month → Unused credits expire → Encourages new purchases  
-6. 🔁 Repeat cycle → Continuous engagement  
-
----
-
-## 6. 📊 Example Flow  
-
-| Week | Action | Price | Claim / Credit |
-|------|--------|-------|----------------|
-| 1 | Buy Shoes | ₹1,000 | Price drops to ₹900 → Claim ₹100 |
-| 2 | Buy Shirt | ₹1,000 | Apply ₹100 credit → Pay ₹900 from pocket |
-| 3 | Buy Watch | ₹2,000 | Price drops to ₹1,950 → Claim ₹50 (within monthly cap of ₹500) |
-
-> **🔑 So, once the customer buy shoes in your shop, That customer will never go for other shop to buy shirt, to buy watch etc....**
 
 ---
 
